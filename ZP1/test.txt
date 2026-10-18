@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 aaaaaaa
 
 
 
+=======
+test1
+aaa
+bbbb
+>>>>>>> test2
